@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "T3B2QICVoallZo/+JYAngGoWvS5L701084Sxzq+YgXQWsV1SpD4/qd7R4ZdynDdRf6S1dkP354K8QJhm7J/1pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bks\\RiderProjects\\ConsoleApp3\\CollectionSchulungÜbung1\\CollectionSchulungÜbung1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://MAFBSVBUILDS1:81/nuget/teamtechnikThirdParty'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://MAFBSVBUILDS1:81/nuget/teamsoft'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://mafbsvbuilds1:81/nuget/teamtechnikThirdParty_NextGen'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://mafbsvbuilds1:81/nuget/teamtechnik'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

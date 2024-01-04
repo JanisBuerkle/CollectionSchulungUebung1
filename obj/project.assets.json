@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\bks\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\bks\\RiderProjects\\ConsoleApp3\\CollectionSchulungÜbung1\\CollectionSchulungÜbung1.csproj",
+      "projectName": "CollectionSchulungÜbung1",
+      "projectPath": "C:\\Users\\bks\\RiderProjects\\ConsoleApp3\\CollectionSchulungÜbung1\\CollectionSchulungÜbung1.csproj",
+      "packagesPath": "C:\\Users\\bks\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bks\\RiderProjects\\ConsoleApp3\\CollectionSchulungÜbung1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\bks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://MAFBSVBUILDS1:81/nuget/teamsoft": {},
+        "http://MAFBSVBUILDS1:81/nuget/teamtechnikThirdParty": {},
+        "http://mafbsvbuilds1:81/nuget/teamtechnik": {},
+        "http://mafbsvbuilds1:81/nuget/teamtechnikThirdParty_NextGen": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/abtsoftware/api/v2": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://MAFBSVBUILDS1:81/nuget/teamtechnikThirdParty'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://MAFBSVBUILDS1:81/nuget/teamsoft'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://mafbsvbuilds1:81/nuget/teamtechnikThirdParty_NextGen'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://mafbsvbuilds1:81/nuget/teamtechnik'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
